@@ -1,0 +1,42 @@
+﻿<Window x:Class="LevelEditor.CreateNewObject_Moveable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Create new Moveable Object" Height="336.833" Width="473.333" ResizeMode="NoResize" Closed="window_closed">
+    <Grid>
+        <TextBox x:Name="tb_name" Margin="10,10,0,0" TextWrapping="Wrap" Text="Object Name" Height="23" VerticalAlignment="Top" MaxLength="30" HorizontalAlignment="Left" Width="178" TabIndex="1"/>
+        <Separator Margin="10,70,0,0" Height="7" VerticalAlignment="Top" HorizontalAlignment="Left" Width="178"/>
+        <TextBox x:Name="tb_mass" Margin="66,82,0,0" TextWrapping="Wrap" HorizontalAlignment="Left" Width="122" Height="23" VerticalAlignment="Top" LostFocus="tb_numbersOnly_focusOut" MaxLength="8" GotFocus="tb_numbersOnly_focusIn" TabIndex="3"/>
+        <Label Content="Mass:" HorizontalAlignment="Left" Margin="10,79,0,0" Height="26" VerticalAlignment="Top"/>
+        <Button x:Name="btn_create" Content="Create" Margin="10,265,0,0" Click="btn_create_Click" Height="25" VerticalAlignment="Top" HorizontalAlignment="Left" Width="75" TabIndex="9"/>
+        <Button x:Name="btn_close" Content="Close" Margin="113,265,0,0" Click="btn_close_Click" HorizontalAlignment="Left" Width="75" Height="25" VerticalAlignment="Top" TabIndex="10"/>
+        <Button x:Name="btn_loadSprite" Content="Load Sprite.." Margin="10,39,0,0" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Width="90" Click="btn_loadSprite_Click" TabIndex="2"/>
+        <Separator Margin="10,112,0,0" Height="9" VerticalAlignment="Top" HorizontalAlignment="Left" Width="178"/>
+        <ComboBox x:Name="dropdown_itemType" Margin="10,121,0,0" VerticalAlignment="Top" SelectedIndex="0" SelectionChanged="dropdown_itemType_SelectionChanged" HorizontalAlignment="Left" Width="178" TabIndex="4">
+            <ComboBoxItem x:Name="comboItem_breakable">Breakable</ComboBoxItem>
+            <ComboBoxItem x:Name="comboItem_unbreakable">Unbreakable</ComboBoxItem>
+        </ComboBox>
+        <TextBox x:Name="tb_health" HorizontalAlignment="Left" Height="23" Margin="66,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" IsEnabled="true" LostFocus="tb_numbersOnly_focusOut" GotFocus="tb_numbersOnly_focusIn" MaxLength="8" TabIndex="5"/>
+        <Label Content="Health:" Margin="18,146,0,0" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Width="48"/>
+        <CheckBox x:Name="cb_isExplosive" Content="Is Explosive" HorizontalAlignment="Left" Margin="23,179,0,0" VerticalAlignment="Top" IsEnabled="true" Click="cb_isExplosive_Click" TabIndex="6"/>
+        <TextBox x:Name="tb_explosiveRadius" HorizontalAlignment="Left" Height="23" Margin="66,201,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" IsEnabled="false" LostFocus="tb_numbersOnly_focusOut" GotFocus="tb_numbersOnly_focusIn" MaxLength="8" TabIndex="7"/>
+        <Label Content="Radius:" Margin="10,200,0,0" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Width="48"/>
+        <TextBox x:Name="tb_explosiveDamage" HorizontalAlignment="Left" Height="23" Margin="66,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" IsEnabled="false" LostFocus="tb_numbersOnly_focusOut" GotFocus="tb_numbersOnly_focusIn" MaxLength="8" TabIndex="8"/>
+        <Label Content="Damage:" Margin="10,229,0,0" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Width="59"/>
+        <Border x:Name="border_spriteBackground" BorderBrush="Black" BorderThickness="1" Margin="193,10,10,10" Background="Black">
+            <Grid>
+                <Image x:Name="image_spriteDisplay"/>
+                <Button x:Name="btn_whiteBlackToggle" Margin="7,0,0,6" Background="White" BorderBrush="#FF5D5D5D" Click="btn_whiteBlackToggle_Click" RenderTransformOrigin="0.5,0.5" Height="28" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="27" TabIndex="11">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleY="-1"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+            </Grid>
+
+        </Border>
+    </Grid>
+</Window>

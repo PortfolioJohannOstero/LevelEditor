@@ -1,0 +1,42 @@
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Release\LevelEditor.exe.config
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Release\LevelEditor.exe
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Release\LevelEditor.pdb
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\App.g.cs
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\LevelEditor_MarkupCompile.cache
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\LevelEditor.g.resources
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\LevelEditor.Properties.Resources.resources
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\LevelEditor.csproj.GenerateResource.Cache
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\LevelEditor.exe
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\LevelEditor.pdb
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\LevelEditor.csprojResolveAssemblyReference.cache
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Release\EntityFramework.dll
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Release\EntityFramework.xml
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\Windows\AboutWindow.baml
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\Windows\CreateMapWindow.baml
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\Windows\CreateNewObject_Moveable.baml
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\Windows\MainWindow.baml
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\Windows\AboutWindow.g.cs
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\Windows\CreateMapWindow.g.cs
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\Windows\CreateNewObject_Moveable.g.cs
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Release\Windows\MainWindow.g.cs
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\bin\Release\LevelEditor.exe.config
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\LevelEditor.exe
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\LevelEditor.pdb
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\bin\Release\LevelEditor.exe
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\bin\Release\LevelEditor.pdb
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\bin\Release\EntityFramework.dll
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\bin\Release\EntityFramework.xml
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\Windows\AboutWindow.baml
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\Windows\CreateMapWindow.baml
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\Windows\CreateNewObject_Moveable.baml
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\Windows\MainWindow.baml
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\Windows\AboutWindow.g.cs
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\Windows\CreateMapWindow.g.cs
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\Windows\CreateNewObject_Moveable.g.cs
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\Windows\MainWindow.g.cs
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\App.g.cs
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\LevelEditor_MarkupCompile.cache
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\LevelEditor.g.resources
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\LevelEditor.Properties.Resources.resources
+C:\Users\p4220933\Desktop\JohannP4220933\LevelEditor\LevelEditor\obj\Release\LevelEditor.csproj.GenerateResource.Cache

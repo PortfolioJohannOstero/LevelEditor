@@ -1,0 +1,40 @@
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe.config
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Debug\LevelEditor.pdb
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\App.g.cs
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor_MarkupCompile.cache
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor.g.resources
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor.Properties.Resources.resources
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor.csproj.GenerateResource.Cache
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor.exe
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor.pdb
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\CreateMapWindow.baml
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\CreateNewObject_Moveable.baml
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\MainWindow.baml
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\CreateMapWindow.g.cs
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\CreateNewObject_Moveable.g.cs
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\MainWindow.g.cs
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe.config
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor.exe
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor.pdb
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Debug\LevelEditor.pdb
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\CreateMapWindow.baml
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\CreateNewObject_Moveable.baml
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\MainWindow.baml
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\CreateMapWindow.g.cs
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\CreateNewObject_Moveable.g.cs
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\MainWindow.g.cs
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\App.g.cs
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor_MarkupCompile.cache
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor.g.resources
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor.Properties.Resources.resources
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\LevelEditor.csproj.GenerateResource.Cache
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Debug\EntityFramework.dll
+d:\Users\suuunly\Desktop\Temporary files\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Debug\EntityFramework.xml
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Debug\EntityFramework.dll
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\bin\Debug\EntityFramework.xml
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\AboutWindow.baml
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\LevelEditor 2\LevelEditor\LevelEditor\obj\Debug\Windows\AboutWindow.g.cs

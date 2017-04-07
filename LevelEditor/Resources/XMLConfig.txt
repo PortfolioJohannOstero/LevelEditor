@@ -1,0 +1,6 @@
+﻿<XML Group Storage Names>
+Stored Object Container:StoredObjects
+-
+2
+Background:BACKGROUND
+MoveableObjects:MOVEABLE

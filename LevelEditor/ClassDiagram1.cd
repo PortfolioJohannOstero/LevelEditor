@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LevelEditor.App" Collapsed="true">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.EditorMapEvent" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABAAAAABAAABAAAAAAAAEQAAAAAAAAAAAgAAAAAAAI=</HashCode>
+      <FileName>Events\EditorMapEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.BreakableObject" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAQAAAAAAgAAAAAAIAAAAAAAAEAAA=</HashCode>
+      <FileName>Objects\BreakableObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.ExplosiveObject" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAEAAAgAABAAAIAAAQAAAAEAAA=</HashCode>
+      <FileName>Objects\ExplosiveObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.MoveableObject" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIAAAAAAASEAAA=</HashCode>
+      <FileName>Objects\MoveableObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.Object" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQIEAAAAABQgAACEAAIAAQgABAAEAAA=</HashCode>
+      <FileName>Objects\Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.Utility" Collapsed="true">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.CreateMapWindow" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAKAAAIQIAAAEAAAAAAAAAAAAAAAAAAAABAAAEAE=</HashCode>
+      <FileName>Windows\CreateMapWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.CreateNewObject_Moveable" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAoQAAAAgSAQAAAAABAAAAgAAAAAAAAEAAQE=</HashCode>
+      <FileName>Windows\CreateNewObject_Moveable.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.MainWindow" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARCAAABAAARoIJAACBGACCACFBQiAEgCCIDQgABABQg=</HashCode>
+      <FileName>Windows\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.XMLFileHandler" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAACAAAAEAAAAQFAAgQCQAAAEAAAAIBACAAA=</HashCode>
+      <FileName>XMLFileHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.Events.ObjectEvent" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Events\ObjectEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.Objects.Transform" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmAAAAAAA=</HashCode>
+      <FileName>Objects\Transform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEditor.Windows.AboutWindow" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\AboutWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="LevelEditor.Objects.ObjectDictionary_Moveable" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAEAAAAAAAgAAAAAACAAA=</HashCode>
+      <FileName>Objects\ObjectDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
